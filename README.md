@@ -1,4 +1,4 @@
-##Data Wrangling Course
+## Data Wrangling Course
 
 Welcome to the Data Wrangling Course! This course is designed to teach you how to work with messy, incomplete, or complex data and turn it into a clean, structured format that can be analyzed and visualized.
 
